@@ -17,7 +17,7 @@ This code primarily focuses on designing of the neural network and training of t
 
 
 ## 3. [data](https://github.com/Bishal1022/Fall-Detection/tree/main/data):
-It contains the sample training and testing data in mp4 format used for training and testing the model.
+It contains the sample training and testing data in mp4 format used for testing the model.
 
 ## 4. [TestData](https://github.com/Bishal1022/Fall-Detection/tree/main/TestData):
 It contains of sample frame-wise data used for testing.
