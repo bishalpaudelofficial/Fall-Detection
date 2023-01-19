@@ -9,11 +9,13 @@ The Following codes is to be run in MATLAB r2020a version or newer. The data giv
 
 
 ## 2. [designtrain.m](https://github.com/Bishal1022/Fall-Detection/blob/main/designtrain.m):
-This code primarily focuses on designing of the neural network and training of the model. We have used YOLOv2 neural network for identifying of the subject and drawing a bounding box around it. Further we have checked the Human aspect ratio(HAR) and rate of change of human aspect ratio to identify the posture and speed of change in posture to detect if the subject has fallen down.
+This code primarily focuses on designing of the neural network and training of the model. We have used YOLOv2 neural network for identifying of the subject and drawing a bounding box around it. Further we have checked the **Human aspect ratio (HAR)** and rate of change of HAR to identify the posture and speed of change in posture to detect if the subject has fallen down.
     
   Further we have determined the error to evaluate the missRate and average precision.
-    
-   ![error](https://user-images.githubusercontent.com/62088646/199351805-f7a82ebb-d9cc-46d7-a7a3-bc9aec9ffcae.jpg)
+
+<p align="center">
+<img width="700" alt="Screenshot_20230119_204828" src="https://user-images.githubusercontent.com/62088646/199351805-f7a82ebb-d9cc-46d7-a7a3-bc9aec9ffcae.jpg">
+</p>
 
 
 ## 3. [data](https://github.com/Bishal1022/Fall-Detection/tree/main/data):
@@ -29,6 +31,14 @@ It also contains train and test mat files required to execute the code.
 
 ## 6.Results: 
 
+
+
+<div align="centre">
+<video src="https://user-images.githubusercontent.com/62088646/213517854-d6002ab6-f213-4be3-8463-8d41c9cc99cd.mp4" width=200/>
+</div>
+
+
+
 ## 7.Achievement:
 
 **◉ Published Paper:**  [Automatic fall detection using Orbbec Astra 3D pro depth images](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs219272)
@@ -36,6 +46,5 @@ It also contains train and test mat files required to execute the code.
 <p align="center">
 <img width="700" alt="Screenshot_20230119_204828" src="https://user-images.githubusercontent.com/62088646/213480989-083ccaad-0db1-483f-9a4c-d03e9d18b7bb.png">
 </p>
-
 
 
