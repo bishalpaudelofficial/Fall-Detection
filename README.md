@@ -26,3 +26,16 @@ It contains of sample frame-wise data used for testing.
 
 It contains detectorYoloV2.mat which is the trained YOLOv2 model for human body detection. It is necessary to draw bounding box aroud the human body to get the co-ordinates.
 It also contains train and test mat files required to execute the code.
+
+## 6.Results: 
+
+## 7.Achievement:
+
+**◉ Published Paper:**  [Automatic fall detection using Orbbec Astra 3D pro depth images](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs219272)
+
+<p align="center">
+<img width="700" alt="Screenshot_20230119_204828" src="https://user-images.githubusercontent.com/62088646/213480989-083ccaad-0db1-483f-9a4c-d03e9d18b7bb.png">
+</p>
+
+
+
